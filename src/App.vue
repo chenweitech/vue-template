@@ -1,11 +1,13 @@
 <template>
     <div id="app">
-        <p>Hello Vue</p>
+        <router-view/>
     </div>
 </template>
 
 <script>
-export default {};
+export default {
+    name: "App"
+};
 </script>
 
 <style lang="scss">
