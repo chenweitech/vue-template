@@ -57,6 +57,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
+    "mockjs": "^1.0.1-beta3",
     "vue": "^2.6.10"
   }
 }
