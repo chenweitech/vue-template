@@ -58,6 +58,7 @@
   },
   "dependencies": {
     "mockjs": "^1.0.1-beta3",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6"
   }
 }
