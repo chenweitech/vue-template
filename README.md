@@ -25,3 +25,9 @@ App/
 ## 自定义插件开发
 
 在src/utils/plugins 文件夹下新建文件夹，命名为插件名称，文件夹包含一个index.js，和一个package文件夹
+
+## 启动项目
+
+```
+yarn install
+```
