@@ -26,7 +26,8 @@ module.exports = {
             "@plugins": resolve("src/utils/plugins"),
             "@helper": resolve("src/utils/helper"),
             "@pages": resolve("src/pages"),
-            "@view": resolve("src/components/view/")
+            "@view": resolve("src/components/view/"),
+            "kit-ui": resolve("src/components/kit-ui")
         }
     },
     module: {
