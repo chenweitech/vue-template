@@ -24,7 +24,11 @@ App/
 
 ## 自定义插件开发
 
-在src/utils/plugins 文件夹下新建文件夹，命名为插件名称，文件夹包含一个index.js，和一个package文件夹
+在src/utils/plugins 文件夹下新建文件夹，命名为插件名称，文件夹包含一个index.js，和一个src文件夹
+
+## UI组件库
+
+本项目内置使用kit-ui做UI组件库，UI组件开发示例参见src/components/kit-ui组件库
 
 ## 启动项目
 
